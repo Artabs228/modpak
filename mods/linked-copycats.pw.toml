@@ -1,0 +1,13 @@
+name = "Linked Copycats"
+filename = "linked-copycats-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39d0a07a5263ba0d18cded64a1a8e7de5a3ff09b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8351025
+project-id = 1594201

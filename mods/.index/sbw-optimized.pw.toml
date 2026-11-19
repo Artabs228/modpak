@@ -1,0 +1,17 @@
+name = "SBW Optimized"
+filename = "sbw-optimized-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "023a69852eb9c80363989d0860371b17888973ce"
+
+[update]
+[update.curseforge]
+file-id = 9125726
+project-id = 1549581
+
+[update.do_updates]
+do_updates = "true"

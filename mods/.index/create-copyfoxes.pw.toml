@@ -1,0 +1,17 @@
+name = "Copyfoxies"
+filename = "copyfoxies-2.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/VmFTbxHn/versions/iJDWyDsS/copyfoxies-2.1.0.jar"
+hash-format = "sha512"
+hash = "640be5c353e9e6754f2c15370c52e51d63abc855ad865c768d666d6edddbf44a260361c5209c6c4838090a9785fab8e7941c3a202b2820264685fd4bbed77e93"
+
+[update]
+[update.modrinth]
+mod-id = "VmFTbxHn"
+version = "iJDWyDsS"
+
+[update.do_updates]
+do_updates = "true"

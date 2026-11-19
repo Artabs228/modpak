@@ -1,0 +1,17 @@
+name = "e4all"
+filename = "e4all-neoforge-2.3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fB1gJLGX/versions/wtrgLGIu/e4all-neoforge-2.3.0.jar"
+hash-format = "sha512"
+hash = "45108777635251f7a98fa4887b764a135d21856c2e95047d58f66b8ba6f70710126cf72f0dfbd9079f3298f9b5a21ed9d51e3b53362b1404ce0ec297ee2ee76f"
+
+[update]
+[update.modrinth]
+mod-id = "fB1gJLGX"
+version = "wtrgLGIu"
+
+[update.do_updates]
+do_updates = "true"

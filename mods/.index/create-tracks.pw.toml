@@ -1,0 +1,17 @@
+name = "Create: Tracks"
+filename = "tracks-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "cccd208606d7ac33f483e1e8a237092712a1a2c0"
+
+[update]
+[update.curseforge]
+file-id = 7968280
+project-id = 1519765
+
+[update.do_updates]
+do_updates = "true"

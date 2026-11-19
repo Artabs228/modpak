@@ -1,0 +1,17 @@
+name = "Quick Skin"
+filename = "Quick Skin - NeoForge - 1.21.1-4.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zAIE84Ch/versions/3gK7IFL1/Quick Skin - NeoForge - 1.21.1-4.1.0.jar"
+hash-format = "sha512"
+hash = "5a6af5c790a00da27a4e2807f44922f0f76ef62e5a4091ad2cd0099ad9b2317195f32a51c0e7001b19e6486d0129ad9f0ebe5f6450788f1c080cd52b81f0f1d9"
+
+[update]
+[update.modrinth]
+mod-id = "zAIE84Ch"
+version = "3gK7IFL1"
+
+[update.do_updates]
+do_updates = "true"

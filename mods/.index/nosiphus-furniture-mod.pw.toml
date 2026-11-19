@@ -1,0 +1,17 @@
+name = "Nosiphus Furniture Mod"
+filename = "cfm-nfm-neoforge-2026.11.09-1.21.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "437b95398bc6254c36cc8663ee199cc358f931ae"
+
+[update]
+[update.curseforge]
+file-id = 9536643
+project-id = 593876
+
+[update.do_updates]
+do_updates = "true"

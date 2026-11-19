@@ -1,0 +1,17 @@
+name = "Architectury"
+filename = "architectury-13.0.12-neoforge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "646dace27624ac08ad8d229fe15f6601a8b7fbb2"
+
+[update]
+[update.curseforge]
+file-id = 9608861
+project-id = 419699
+
+[update.do_updates]
+do_updates = "true"

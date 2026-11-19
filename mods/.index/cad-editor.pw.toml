@@ -1,0 +1,17 @@
+name = "[CADE]CAD Editor"
+filename = "cadeditor-1.21.1-0.1.0-neoforge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "29bd5eb4dbc2d395117ef6d29cd45b93c005e821"
+
+[update]
+[update.curseforge]
+file-id = 7257073
+project-id = 1352735
+
+[update.do_updates]
+do_updates = "true"

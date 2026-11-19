@@ -1,0 +1,13 @@
+name = "e4all"
+filename = "e4all-neoforge-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3e9c88c7ea8ee941a2b23e7a572a4f522c4e55b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9346444
+project-id = 1769364

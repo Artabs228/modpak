@@ -1,0 +1,13 @@
+name = "Ragdoll"
+filename = "Ragoll 1.16.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cee6d5d7dd1657e3615a4ac8f9b2cfaa3d4c0ab4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3029591
+project-id = 387379

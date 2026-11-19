@@ -1,0 +1,13 @@
+name = "MegaAeroShedevromodpak"
+author = "Artabs"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "af320b86027da091152b5c0a75a2eca653ba8fd88bce67ca42e297ab1bc3d76c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
