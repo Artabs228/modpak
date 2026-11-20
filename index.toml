@@ -401,8 +401,3 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
-
-[[files]]
-file = "saves/minecraft-ragdoll.pw.toml"
-hash = "d2d76ed1884c7205ca07b4168b4fa13fa49b26c2e255fb956550240d5920b1ba"
-metafile = true
