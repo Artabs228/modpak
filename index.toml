@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/sbw-drone-warfare.pw.toml"
-hash = "dc0ccff81d08bde264049624bfa888d606593e3d2fe999f9575f566bfb5f9975"
+hash = "c114d37ce034c98d589c548b0638ce64c440cacce521b54c9c9c7127d801176a"
 metafile = true
 
 [[files]]

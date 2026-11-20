@@ -1,7 +1,9 @@
+
 name = "[SBW] Drone Warfare"
 filename = "0.8.9.1-SBW-Drone-Warfare-1.21.1-NeoForge-1.0.9-sbw0891.jar"
 side = "both"
+
 [download]
-url = "https://github.com/Artabs228/modpak/mods/0.8.9.1-SBW-Drone-Warfare-1.21.1-NeoForge-1.0.9-sbw0891.jar"
+url = "https://raw.githubusercontent.com/Artabs228/modpak/main/mods/0.8.9.1-SBW-Drone-Warfare-1.21.1-NeoForge-1.0.9-sbw0891.jar"
 hash-format = "sha1"
-hash = "ТВІЙ_SHA1"
+hash = "d24823cac4668b3c5e0028676428e0e2d9d5a007"
