@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "github-index.toml"
+hash = "791f109a76545385c48c036ee77be14b46e8897566ff2c2b565471ccd5839bc4"
+
+[[files]]
+file = "mods/0.8.9.1-SBW-Drone-Warfare-1.21.1-NeoForge-1.0.9-sbw0891.jar"
+hash = "a45c3e6cb9abfb857b311c5401d34e43ab07056c9b8ce8a5392e3faab8a3bba1"
+
+[[files]]
 file = "mods/Quick Skin - NeoForge - 1.21.1-4.1.0.jar"
 hash = "eff2964305751e4965a8b51f183cc3a942cb435a629e43632321bcb3145f9da8"
 
