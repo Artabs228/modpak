@@ -34,9 +34,8 @@ hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
 
 [[files]]
-file = "mods/cad-editor.pw.toml"
-hash = "b903ad436d3199db8fc76ce878bba4465a8d35b0086e7e33de6f14131733e37f"
-metafile = true
+file = "mods/cadeditor-1.21.1-0.1.0-neoforge.jar"
+hash = "e9f07298a84388e1086b80fb8a1fc72cee19aa1c1278c92b05e5ced9ce4cac8d"
 
 [[files]]
 file = "mods/copycats.pw.toml"
@@ -44,13 +43,12 @@ hash = "af68f400faa4564bfaa16509dedcb2dbafb8c3a0154d6e4e0b1443bcb4c6d536"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-sable-mass-view.pw.toml"
-hash = "3760a1b748076cc3961964ddbe29011cfc86d7ffdbec423d6afe777917a7d853"
-metafile = true
+file = "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar"
+hash = "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
 
 [[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
+file = "mods/create-aeronautics-sable-mass-view.pw.toml"
+hash = "3760a1b748076cc3961964ddbe29011cfc86d7ffdbec423d6afe777917a7d853"
 metafile = true
 
 [[files]]
@@ -323,14 +321,13 @@ hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
 
 [[files]]
-file = "mods/sable-ragdolls.pw.toml"
-hash = "44988ea0309235eac8e49d360dfabb8fd9074592882316641e438cc281a4f747"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
 metafile = true
+
+[[files]]
+file = "mods/sable_player_ragdoll-1.21.1-0.7.2.jar"
+hash = "62e67cb468bdd4d2240e059c24aac19a019ea5373149b788f24f88d22a017013"
 
 [[files]]
 file = "mods/sbw-aeronautics-compat.pw.toml"
