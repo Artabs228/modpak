@@ -5,6 +5,11 @@ file = "mods/Quick Skin - NeoForge - 1.21.1-4.1.0.jar"
 hash = "eff2964305751e4965a8b51f183cc3a942cb435a629e43632321bcb3145f9da8"
 
 [[files]]
+file = "mods/absolute-kinematics.pw.toml"
+hash = "8c2d4c4611c6a9936af4fb747ae945eb53d024a8b584c415f52bdbf4a49e5119"
+metafile = true
+
+[[files]]
 file = "mods/airwaves-1.21.1-0.1.1-atm10.jar"
 hash = "dd56c674928c06b678e8d169a9f9af76a1e15a172e5e59dce0da321b126f04fb"
 
