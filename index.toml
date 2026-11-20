@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/sbw-drone-warfare.pw.toml"
-hash = "53187d787d1ddd07455607b01dd6fa1bc31f9efddc0d8e082ef3cdd807d6a1d6"
+hash = "dc0ccff81d08bde264049624bfa888d606593e3d2fe999f9575f566bfb5f9975"
 metafile = true
 
 [[files]]
@@ -371,6 +371,10 @@ metafile = true
 file = "mods/superb-warfare.pw.toml"
 hash = "7310db863779f8cb58976f63a55e855a31d2848f14cd21eb475a9eb603bc6fc7"
 metafile = true
+
+[[files]]
+file = "mods/superbwarfare-0.8.9.1-final-mc1.21.1-5b92ebe1.jar"
+hash = "d6deeeac1f17c087b0561bd224aabc8c6d450d98cbb2a273306300a30c7e0ecf"
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
